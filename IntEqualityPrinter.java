@@ -9,7 +9,7 @@ public class IntEqualityPrinter {
             System.out.println("Invalid Value");
         }
         else if(a==b && b==c && c==a){
-            System.out.println("All the numbers are equal ");
+            System.out.println("All numbers are equal ");
         } else if(a!=b && b!=c && c!=a) {
             System.out.println("All are different");
         }else{
