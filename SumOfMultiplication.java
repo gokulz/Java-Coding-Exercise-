@@ -1,3 +1,12 @@
+/*Sum of all numbers that can be divided by both 3 and 5.
+after breaking out the loop print the sum */
+
+
+
+
+
+
+
 public class SumOfMultiplication {
     public static void main(String[] args) {
         int sum=0;
